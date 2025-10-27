@@ -70,7 +70,7 @@ header {
 /* Hero */
 .hero {
   height: 100vh;
-  background: url('../img/hero-bg.jpg') center/cover no-repeat;
+  background: url('/img/hero-bg.jpg') center/cover no-repeat;
   position: relative;
   display: flex;
   align-items: center;
@@ -217,4 +217,5 @@ footer {
   background: #0a0a0a;
   color: var(--muted);
   font-size: 0.9rem;
+
 }
