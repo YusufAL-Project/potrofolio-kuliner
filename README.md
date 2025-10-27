@@ -1,2 +1,2 @@
-# potrofolio-kuliner
+# kuliner-Indonesia
 A personal portfolio showcasing my culinary creations and food photography projects.
